@@ -1,0 +1,16 @@
+keras==2.10.0
+pandas==2.0.3
+numpy==1.23.5
+matplotlib==3.7.1
+jupyter==1.0.0
+notebook==6.5.4
+tqdm==4.66.1
+opencv-contrib-python==4.7.0.72
+scikit-learn==1.2.2
+tensorflow-cpu==2.10.0
+tensorboard==2.10.1
+protobuf==3.19.6
+tensorflow-directml-plugin==0.2.0.dev221020     #used because I have no GPU
+Pillow==9.5.0
+
+# environment created used: tf_210
