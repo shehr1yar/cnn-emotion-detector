@@ -2,6 +2,11 @@
 
 A facial emotion recognition project built with a convolutional neural network (CNN). It reads a webcam feed, detects a face, predicts one of seven emotions, and shows a cat meme that matches the emotion.
 
+<p float="left">
+  <img src="./response/AAGHb9FZgnQ_1790691285316.png" width="49%" height="350px" />
+  <img src="./response/AAGHb9FZgnQ_1790691006208.png" width="49%" height="350px" />
+</p>
+
 ## Features
 
 - CNN trained on 48x48 grayscale face images
